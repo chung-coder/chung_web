@@ -2661,6 +2661,16 @@ fieldset:disabled a.btn {
   background-color: #23272b;
   border-color: #1d2124;
 }
+.btn-white {
+  color: #dae0e59c;
+  background-color: #dae0e59c;
+  border-color: #dae0e59c;
+}
+.btn-white:hover {
+  color: #dae0e5;
+  background-color: #dae0e5;
+  border-color: #dae0e5;
+}
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
   background-color: #23272b;
